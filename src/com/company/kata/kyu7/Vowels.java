@@ -2,7 +2,7 @@ package com.company.kata.kyu7;
 
 /**
  * Vowel Count
- * https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/java
+ * https://www.codewars.com/kata/54ff3102c1bad923760001f3
  * 22-12-2020
  */
 
