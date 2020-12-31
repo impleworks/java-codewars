@@ -14,10 +14,6 @@ public class Johnann {
     private static List<Long> ann;
     private static List<Long> john;
 
-    public static void main(String[] args) {
-        System.out.println(Johnann.sumAnn(150));
-    }
-
     private static void generate(long n) {
         Johnann.ann = new ArrayList<>();
         Johnann.john = new ArrayList<>();
